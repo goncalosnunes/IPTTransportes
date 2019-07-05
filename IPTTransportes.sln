@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.705
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IPTTransportes", "IPTTransportes\IPTTransportes.csproj", "{37C38C08-BFC0-4F8C-B4D9-41CD343079F9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{37C38C08-BFC0-4F8C-B4D9-41CD343079F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37C38C08-BFC0-4F8C-B4D9-41CD343079F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37C38C08-BFC0-4F8C-B4D9-41CD343079F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37C38C08-BFC0-4F8C-B4D9-41CD343079F9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2CFC9E51-D1C9-43BB-A25B-6CB328C97508}
+	EndGlobalSection
+EndGlobal
