@@ -11,6 +11,7 @@ namespace IPTTransportes.Models
         public int Id { get; set; }
 
         public string Fotografia { get; set; }
+
         [ForeignKey("Utilizadorfk")]
         public Utilizadores Utilizador { get; set; }
         public int Utilizadorfk { get; set; }
